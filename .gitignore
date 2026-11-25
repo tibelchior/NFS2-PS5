@@ -1,0 +1,18 @@
+# Your game files, upstream sources, build output and personal art stay out of the repository.
+/repo/
+/work/
+/dist/
+/spike/
+/screenshots/
+/art/*.png
+/art/*.jpg
+*.log
+*.o
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+*.orig
+.claude/
+.vscode/
+.idea/
